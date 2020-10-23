@@ -1,4 +1,4 @@
-# Capstone-Assignment
+# Car Colllision Severity Analysis in Seattle
 
 Car accident happens every day due to many reasons, such as road condition, weather, and lighting, etc. In order to reduce the frequency of car collisions in Seattle, an analysis is conducted to predict the severity of a car collision that caused by the current weather, road and visibility conditions. The purpose of this analysis is to create a model that can alert drivers when the conditions are dreadful.
 
